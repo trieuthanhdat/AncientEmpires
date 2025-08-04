@@ -1,0 +1,10 @@
+
+
+public enum MONSTER_TYPE
+{
+	RED,
+	GREEN,
+	YELLOW,
+	PURPLE,
+	BLUE
+}

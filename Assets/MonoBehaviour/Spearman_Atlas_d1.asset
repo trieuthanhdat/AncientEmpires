@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d057d5df1c3e7986783d54ef9fce7951, type: 3}
+  m_Name: Spearman_Atlas_d1
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 97d4388990ab4f3ab50424ff81a238c1, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 6047b1ab59ae4dff892d143a0c4568f3, type: 2}

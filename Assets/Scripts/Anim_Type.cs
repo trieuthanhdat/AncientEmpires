@@ -1,0 +1,14 @@
+
+
+public enum Anim_Type
+{
+	IDLE,
+	ATTACK_HUNTER,
+	ATTACK_MONSTER,
+	DAMAGE,
+	SKILL,
+	STUN,
+	SKILLEFFECT,
+	MOVE,
+	DEATH
+}

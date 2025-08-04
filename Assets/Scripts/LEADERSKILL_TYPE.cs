@@ -1,0 +1,11 @@
+
+
+public enum LEADERSKILL_TYPE
+{
+	STAT = 1,
+	COLOR,
+	COMBO,
+	HEAL,
+	HP1,
+	ATTRIBUTE
+}

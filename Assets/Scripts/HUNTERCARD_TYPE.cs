@@ -1,0 +1,9 @@
+
+
+public enum HUNTERCARD_TYPE
+{
+	LEVELPLAY,
+	DECK,
+	HUNTERLIST,
+	CHESTOPEN
+}
